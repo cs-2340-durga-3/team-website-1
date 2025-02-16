@@ -12,8 +12,8 @@
 	<h2 class="text-2xl font-semibold text-cyan-50">Objective</h2>
 
 	<p class="mt-4 text-cyan-100">
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam praesentium officia officiis
-		dolorum nostrum atque quia, fugiat ipsam quasi sint?
+		Our goal was to create a movie purchasing web app using Django, requested by our client Pranati
+		Duvvuri.
 	</p>
 </div>
 
@@ -21,8 +21,9 @@
 	<h2 class="text-2xl font-semibold text-blue-50">What is it?</h2>
 
 	<p class="mt-4 text-blue-100">
-		Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam praesentium officia officiis
-		dolorum nostrum atque quia, fugiat ipsam quasi sint?
+		Our project is a way for GT students to rent/buy movies, complete with reviews, order history,
+		descriptions, and admin accounts. There were 21 user stories that we had to fulfill, which are
+		listed below.
 	</p>
 </div>
 

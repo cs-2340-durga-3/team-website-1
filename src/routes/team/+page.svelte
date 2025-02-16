@@ -65,7 +65,7 @@
 	<div>
 		<img
 			src="/people/junyong.png"
-			alt="Nikki"
+			alt="Junyong"
 			class="mb-4 size-32 rounded-xl sm:float-right sm:ml-8 md:size-64"
 		/>
 
@@ -86,8 +86,8 @@
 
 	<div>
 		<img
-			src="/people/daniel.jpeg"
-			alt="Daniel"
+			src="/people/shangen.png"
+			alt="Shang En"
 			class="mb-4 size-32 rounded-xl sm:float-right sm:ml-8 md:size-64"
 		/>
 
@@ -128,29 +128,3 @@
 		</ul>
 	</div>
 </div>
-
-<!-- <svelte:head>
-	<title>projects | durga three</title>
-</svelte:head>
-
-<div class="content py-12">
-	<h1 class="text-4xl font-semibold text-white">Our Team</h1>
-
-	<article class="mt-8 rounded-md bg-slate-900 md:flex">
-		<div class="shrink-0 max-md:h-40 md:w-80">
-			<img src="/movies.png" class="h-full w-full rounded-l-md object-cover md:w-80" alt="" />
-		</div>
-
-		<div class="p-6 md:p-8">
-			<h1 class="text-2xl font-semibold text-white">GT Movies</h1>
-
-			<p class="mt-2 text-slate-400">
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa veritatis nostrum fugiat
-				labore quaerat optio iusto iste ullam tempore facilis, in repellat corporis placeat hic eius
-				sit blanditiis, ratione velit commodi sunt nesciunt sequi! Minima, temporibus earum.
-				Quibusdam eligendi, ipsa esse voluptate placeat minima laudantium beatae laborum
-				exercitationem dicta nihil natus in.
-			</p>
-		</div>
-	</article>
-</div> -->

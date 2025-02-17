@@ -82,7 +82,7 @@
 </div>
 
 <div class="content gap-y-8 bg-indigo-950 py-16">
-	<h2 class="text-2xl font-semibold text-indigo-50">Browsing</h2>
+	<h2 class="text-2xl font-semibold text-indigo-50">Backend</h2>
 
 	<div>
 		<img

@@ -123,6 +123,19 @@
 	</div>
 </div>
 
+<div class="content bg-cyan-950 py-16">
+	<h2 class="text-3xl font-semibold text-cyan-50">Process</h2>
+
+	<div class="mt-8 grid gap-4 text-cyan-100 md:grid-cols-3">
+		<img src="/project/process.png" alt="" class="w-full rounded-xl" />
+		<p class="col-span-2">
+			The System Sequence Diagram shows the process of a user logging in, viewing and searching
+			movies, adding, editing, and deleting reviews, adding movies to the cart, ordering movies, and
+			viewing their order history.
+		</p>
+	</div>
+</div>
+
 <style>
 	strong,
 	b {

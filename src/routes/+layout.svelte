@@ -29,6 +29,7 @@
 				{@render link('Home', '/')}
 				{@render link('Team', '/team')}
 				{@render link('Project', '/project')}
+				{@render link('Demo', '/demo')}
 			</div>
 		</nav>
 	</div>

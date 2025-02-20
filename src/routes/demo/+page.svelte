@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>Video Demonstration | Durga 3</title>
+</svelte:head>
+
 <div class="py-16">
 	<h1 class="text-4xl font-semibold text-white">Video Demonstration</h1>
 
